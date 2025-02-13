@@ -4,11 +4,11 @@
 
 **_ Lien https pour cloner le depot _**
 
-    https://github.com/Junior-835/Labyrinthe_Groupe2_VR.git
+    https://github.com/Junior-835/Labyrinthe_VR_Groupe2.git
 
     # Ouvrir votre terminal windows
 
-    # git clone https://github.com/Junior-835/Labyrinthe_Groupe2_VR.git
+    # git clone https://github.com/Junior-835/Labyrinthe_VR_Groupe2.git
 
     # Ouvrir le dossier/projet dans Unity et exécuter
 
